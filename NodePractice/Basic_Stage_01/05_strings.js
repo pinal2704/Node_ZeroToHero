@@ -1,4 +1,5 @@
-const name = "hitesh"
+const name= "hitesh";
+
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
@@ -33,3 +34,11 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
+
+
+
+
+ const MariDate = new Date(1999,3,27);
+ 
+ 
+console.log(MariDate.toDateString());

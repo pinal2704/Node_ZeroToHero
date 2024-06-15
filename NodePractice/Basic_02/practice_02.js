@@ -35,12 +35,72 @@
 // console.log(object.fullname.userFullNam);
 
 
+
+
+if(true)
+{
 var a=10;
 let b=20;
 const c=30;
 
+}
+
+// console.log(a);
+//console.log(b);
+//console.log(c); 
+
+
+
+// const demo =function(number){
+
+//     return number + 1;
+// }
+
+// // console.log(demo(2));
+
+
+
+// const result = function(number1,number2)
+// {
+
+//     return number3=number1+number2; 
+// }
+
+// console.log(result(5,5));
 
 
 
 
+// const infoObj = {
 
+// name : "pinal",
+// age : 29,
+// Location : "Gandhinagar",
+// Demo : function(){
+
+//     console.log(`my name is ${infoObj.name}`);
+// }
+// }
+
+// infoObj.name="nikunj"
+
+// infoObj.Demo()
+
+
+ const demo = () => {
+
+    let Location ="Gandhinagar"
+    return Location
+
+}
+// console.log(demo());
+
+
+const addition = (num1,num2) => {
+
+
+    return {pinal : "pinal"}
+}
+// addition(5,7)
+
+console.log(addition(5,5));
